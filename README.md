@@ -4,7 +4,7 @@
   
 📚 Iniciante na programação 
 
-⚡ Fun fact: graduada em Psicologia, especializada em Neuropsicologia, jogadora de RPG de mesa, LoL e Genshin Impact <p>
+⚡ Fun fact: graduada em Psicologia, especializada em Neuropsicologia, jogadora de RPG de mesa, LoL e Genshin Impact nas horas vagas. <p>
   
 
 
