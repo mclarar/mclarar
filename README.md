@@ -4,7 +4,13 @@
   
 📚 Iniciante na programação 
 
-⚡ Fun fact: graduada em Psicologia, especializada em Neuropsicologia, jogadora de RPG de mesa, LoL e Genshin Impact nas horas vagas. <p>
+⚡ Fun fact: graduada em Psicologia, especializada em Neuropsicologia, e gosto de jogar nas horas vagas. <p>
+
+<div>
+<a href="https://github.com/mclarar">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mclarar&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mclarar&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
   
 
 
