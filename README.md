@@ -2,8 +2,6 @@
 
 😄 Pronomes: Ela/Dela<p>
   
-📚 Iniciante na programação 
-
 ⚡ Fun fact: graduada em Psicologia, especializada em Neuropsicologia, e gosto de jogar nas horas vagas. <p>
 
 <div>
