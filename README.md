@@ -1,11 +1,5 @@
 ### Hi there 👋 I'm Maria Clara
 
-😄 Pronomes: Ela/Dela
-<p>
-⚡ Atualmente cursando Análise e Desenvolvimento de Sistemas.<br>
-⚡ Fun fact: graduada em Psicologia, especializada em Neuropsicologia, e gosto de jogar nas horas vagas. <p>
-
-
 <div>
 <a href="https://github.com/mclarar">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mclarar&layout=compact&langs_count=7&theme=dracula"/>
